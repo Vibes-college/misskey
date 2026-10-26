@@ -1,3 +1,15 @@
+> [!NOTE]
+> **这是 [Vibes](https://vibes.college) 用的 Misskey 改版**，基于 Misskey 2026.10.0，Vibes College 从 2026-10 开始修改。
+> 加了线路图、攻略、英语助手、私信里的 AI tutor，也为内地访问提了速。改了什么见 `vibes` 分支的提交；和官方 2026.10.0 的差别见 [这里](https://github.com/Vibes-college/misskey/compare/de89118a225fbe0833e42ab94e8d5af1e5211208...vibes)。
+>
+> - 线上：https://app.vibes.college（内测，只能用邀请码注册）
+> - 课程、视频和部署脚本：[Vibes-college/vibes-college](https://github.com/Vibes-college/vibes-college)
+> - 许可证和 Misskey 一样，是 AGPL-3.0。代码里的 `lojo` 是旧代号。
+> - 视频和第三方照片不在仓库里，所以本地跑起来，线路图的视频和 LOJO 旧页面的部分图片会是空的。
+> - Misskey 本身的问题请报给上游 [misskey-dev/misskey](https://github.com/misskey-dev/misskey)；我们改出来的问题在 [Vibes-college/vibes-college](https://github.com/Vibes-college/vibes-college/issues) 提。
+>
+> **This is the Misskey fork behind [Vibes](https://vibes.college)**, modified by Vibes College since October 2026 on top of Misskey 2026.10.0: route maps, guides, an English helper, an AI tutor in direct messages, and faster loading from mainland China. Same license as Misskey (AGPL-3.0). `lojo` in the code is an old codename. Videos and third-party photos are not in the repository.
+
 <div align="center">
 <a href="https://misskey-hub.net">
 	<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="300"/>
